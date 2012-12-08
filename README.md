@@ -4,4 +4,10 @@ It is a project which is the website home page TourismFan innovative mobile appl
 
 More details soon.
 
-Author: Lucas M. Wilczyñski (contact@wilczekpl.com)
+
+
+**********************************************************
+*														 *
+*  Author: Lucas M. Wilczyñski (contact@wilczekpl.com)	 *
+*														 *
+**********************************************************
